@@ -213,6 +213,10 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
 __marimo__/
 
 # Streamlit
